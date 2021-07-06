@@ -4,7 +4,7 @@
   "description": "This repository is an example that will be used to demonstrate a post in the dev blog [ADD LINK HERE]",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
